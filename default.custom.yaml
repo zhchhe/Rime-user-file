@@ -1,0 +1,9 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.15.0.0
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Tue Jun 13 12:21:20 2023"
+  rime_version: 1.8.5
+patch:
+  schema_list:
+    - {schema: rime_ice}
